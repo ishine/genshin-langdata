@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Hurricane Seed",
     ja: "暴風の種",
@@ -423,4 +425,4 @@
     zhCN: "无光质块",
     tags: [ "fontaine", "drop-boss" ],
   },
-]
+]);

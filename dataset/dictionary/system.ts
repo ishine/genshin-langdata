@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // Character Development
   //
@@ -882,4 +884,4 @@
     pronunciationJa: "いのちのけいやく",
     tags: [ "fontaine" ],
   },
-]
+]);

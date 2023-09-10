@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // Mondstadt
   //
@@ -453,4 +455,4 @@
     pronunciationJa: "きたくにぎんこう",
     tags: [ "snezhnaya", "liyue", "facility" ],
   },
-]
+]);

@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Statue of The Seven",
     ja: "七天神像",
@@ -1174,4 +1176,4 @@
     zhCN: "巨大的贝壳",
     tags: [ "fontaine", "object" ],
   },
-]
+]);

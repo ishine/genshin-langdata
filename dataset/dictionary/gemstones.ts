@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Brilliant Diamond Gemstone",
     ja: "輝くダイヤ",
@@ -202,4 +204,4 @@
     pronunciationJa: "せいちょうのエメラルド・さいせつ",
     tags: [ "gemstone" ],
   },
-]
+]);

@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // Piece of Artifacts
   //
@@ -1149,4 +1151,4 @@
     notes: "夢想楽土の結末 (禍津御建鳴神命戦) の挑戦名",
     tags: [ "inazuma" ],
   },
-]
+]);

@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Elemental Lifeform",
     ja: "元素生命",
@@ -435,4 +437,4 @@
     tags: [ "fontaine" ],
     // related: [ "bullet-barnacle" ]
   },
-]
+]);

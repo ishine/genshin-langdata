@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Scattered Piece of Decarabian's Dream",
     ja: "高塔の王の砕けた夢",
@@ -465,4 +467,4 @@
     tags: [ "weapon-material", "fontaine" ],
     notes: "★2武器突破素材",
   },
-]
+]);

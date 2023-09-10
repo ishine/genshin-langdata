@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Domain",
     ja: "秘境",
@@ -511,4 +513,4 @@
     tags: [ "fontaine", "domain" ],
     notesZh: "吞星之鲸的掉落物",
   },
-]
+]);

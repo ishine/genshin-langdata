@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Sword",
     ja: "片手剣",
@@ -1479,4 +1481,4 @@
     zhCN: "金流监督",
     tags: [ "weapon", "catalyst" ],
   },
-]
+]);

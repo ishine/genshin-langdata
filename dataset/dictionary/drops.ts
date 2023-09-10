@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Black Crystal Horn",
     ja: "黒晶の角笛",
@@ -725,4 +727,4 @@
     zhCN: "图比昂装置",
     tags: [ "fontaine", "drop" ],
   },
-]
+]);

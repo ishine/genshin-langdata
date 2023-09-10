@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // Archon Quests
   //
@@ -3261,4 +3263,4 @@
       en: [ "Hangout" ],
     },
   },
-]
+]);

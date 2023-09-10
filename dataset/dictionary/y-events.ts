@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Theater Mechanicus",
     ja: "機関棋譚",
@@ -2156,4 +2158,4 @@
     notes: "v1.3 期間限定イベント「海灯祭」期間中に合成できるアイテム",
     tags: [ "liyue", "event", "item" ],
   },
-]
+]);

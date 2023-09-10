@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // General
   //
@@ -509,4 +511,4 @@
     zhCN: "愚人众",
     tags: [ "snezhnaya", "organization" ],
   },
-]
+]);

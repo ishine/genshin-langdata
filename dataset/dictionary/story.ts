@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // General
   //
@@ -820,4 +822,4 @@
     ja: "降臨者",
     zhCN: "降临者",
   },
-]
+]);

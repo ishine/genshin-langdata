@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // General - Main Characters
   //
@@ -4626,4 +4628,4 @@
     tags: [ "khaenriah", "title" ],
     pinyins: [{ char: "鹄", pron: "hu2" }],
   },
-]
+]);

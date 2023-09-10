@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Elite Enemy",
     ja: "精鋭",
@@ -2199,4 +2201,4 @@
     pronunciationJa: "どんせいのくじら",
     tags: [ "fontaine", "enemy" ],
   },
-]
+]);

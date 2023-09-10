@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   //
   // General
   //
@@ -2202,4 +2204,4 @@
     pronunciationJa: "カーンルイアじん / カーンルイアの",
     tags: [ "khaenriah" ],
   },
-]
+]);

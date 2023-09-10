@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Teachings of Freedom",
     ja: "「自由」の教え",
@@ -328,4 +330,4 @@
       zhCN: [ "皇冠" ],
     },
   },
-]
+]);

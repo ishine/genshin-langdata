@@ -1,4 +1,4 @@
-import type allTags from "../dataset/tags.json";
+import type allTags from "../dataset/tags";
 
 type TagID = keyof typeof allTags;
 

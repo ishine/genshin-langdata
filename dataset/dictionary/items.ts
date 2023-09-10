@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   // TODO need check
   {
     en: "Primogem",
@@ -1576,4 +1578,4 @@
     pronunciationJa: "ほかげにたわむるかぜ", // TODO Need Check
     notes: "ガイアのコスチューム",
   },
-]
+]);

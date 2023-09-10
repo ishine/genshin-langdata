@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "artifact",
     ja: "聖遺物",
@@ -489,4 +491,4 @@
       zhCN: [ "乐团套" ],
     },
   },
-]
+]);

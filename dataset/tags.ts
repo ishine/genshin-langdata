@@ -1,4 +1,6 @@
-{
+import { defineTags } from "../libs/types";
+
+export default defineTags({
   "mondstadt": {
     "en": "Mondstadt",
     "ja": "モンド",
@@ -449,4 +451,4 @@
       "zh-CN": "原神中出现的法器的英语和日语翻译"
     }
   }
-}
+});

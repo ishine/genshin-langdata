@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Proficiency",
     ja: "熟練度",
@@ -1880,4 +1882,4 @@
     zhCN: "独家秘闻・美食专栏",
     tags: [ "fontaine", "food" ],
   },
-]
+]);

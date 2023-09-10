@@ -1,4 +1,6 @@
-[
+import { defineWords } from "../../libs/types";
+
+export default defineWords([
   {
     en: "Local Specialty",
     ja: "地域の特産",
@@ -307,4 +309,4 @@
     pronunciationJa: "はつつゆのみなもと",
     tags: [ "fontaine", "specialty" ],
   },
-]
+]);
