@@ -1,5 +1,7 @@
 "use strict";
 
+const { join } = require("path");
+
 module.exports = {
   root: true,
   extends: [
@@ -8,6 +10,7 @@ module.exports = {
 
   parserOptions: {
     sourceType: "module",
+    project: join(__dirname, "tsconfig.json"),
   },
 
   rules: {
